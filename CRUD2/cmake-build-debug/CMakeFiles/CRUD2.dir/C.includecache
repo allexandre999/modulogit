@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/joao/CLionProjects/CRUD2/funcionario.c
+stdio.h
+-
+string.h
+-
+funcionario.h
+C:/Users/joao/CLionProjects/CRUD2/funcionario.h
+
+C:/Users/joao/CLionProjects/CRUD2/funcionario.h
+

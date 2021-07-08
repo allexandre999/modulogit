@@ -1,0 +1,3 @@
+C:/Users/joao/CLionProjects/CRUD2/cmake-build-debug/CMakeFiles/CRUD2.dir
+C:/Users/joao/CLionProjects/CRUD2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/joao/CLionProjects/CRUD2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
