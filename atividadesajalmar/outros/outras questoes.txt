@@ -1,0 +1,5 @@
+ao ser declarada como global o scopo dela permeia por todo o programa enquanto a local somente no bloco em que foi declarada, no caso do ciclo de vida a global tem um ciclo de vida relativamente maior porque ja é criada no inicio do programada enquanto a local esperara chegar no bloco de codigo que será declarada, apos isso permanece até o fim do programa. 
+
+
+
+na compilação o programa é compilado todo de uma vez. é realizada uma "varredura" no código se for encontrado algum erro de sintaxe no codigo o erro é informado e deve-se voltar ao codigo para corrigir, se nao houver erro é criado o codigo objeto para execução. no caso da interpretação o processo ocorre linha a linha(verifica, compila, executa) e caso haja um erro no final do codigo é necessário iniciar todo o processo novamente. Já a linkedição é necessária para juntar todas as extensões e bibliotecas em um unico arquivo executável.

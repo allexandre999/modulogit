@@ -1,0 +1,3 @@
+C:/Users/joao/Desktop/PROVA 1-IP/STRUCT_CADASTRO/cmake-build-debug/CMakeFiles/STRUCT_CADASTRO.dir
+C:/Users/joao/Desktop/PROVA 1-IP/STRUCT_CADASTRO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/joao/Desktop/PROVA 1-IP/STRUCT_CADASTRO/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/atividadesajalmar/UF/cmake-build-debug/CMakeFiles/UF.dir
+C:/atividadesajalmar/UF/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/atividadesajalmar/UF/cmake-build-debug/CMakeFiles/rebuild_cache.dir
