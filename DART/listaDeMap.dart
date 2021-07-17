@@ -20,6 +20,8 @@ menu() {
       cadastrar();
     } else if (cmd == 2) {
       listar();
+    } else {
+      print("#### COMANDO NAO EXISTENTE ####");
     }
   } while (condicao);
 }
