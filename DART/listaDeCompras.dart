@@ -1,7 +1,7 @@
 import 'dart:io';
 
 main() {
-  List<String> lista = [];
+  List<String> lista = ["joao", "augusto"];
   menu(lista);
 }
 
